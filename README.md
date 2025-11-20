@@ -1,8 +1,8 @@
-#Shopping Demo
+# Shopping Demo
 A Simple Flask web application with login, signup, cart and checkout
 functionlity - tested using selenium and pytest, and Github
 
-##Features
+## Features
 - user signup and login(session-based)
 - Product listing and cart management
 - Checkout flow
